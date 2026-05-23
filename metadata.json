@@ -1,0 +1,6 @@
+{
+  "name": "KaamChha",
+  "description": "A real-time on-demand trust marketplace platform for construction, maintenance, and expert local services with secure payment escrow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
